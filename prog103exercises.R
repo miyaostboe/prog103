@@ -29,7 +29,7 @@ dna2 <- "attattaggaacaca"
 # dna1 is not the same as dna2
 # TRUE
 # w is greater than x, or y is greater than z
-# FALSE
+# TRUE
 # x times w is between 13.2 and 13.5
 # TRUE
 # Each mass in masses is between 30 and 50.
